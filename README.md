@@ -1,5 +1,41 @@
-### Hi there 👋
+# 👋 Olá,
 
-Profissional com carreira desenvolvida em Infraestrutura, habilidade com arquiteturas de nuvem pública e privada Azure atuação com CI/CD, deployment automatizado observability. Atuando em projetos com aplicações WEB. Realizando a administração de infraestrutura de banco de dados Atuação com ferramentas de automação jenkins e conhecimento em um projeto pontual em ansible. Formado em análise e desenvolvimento de sistemas,’ conhecimentos gerais em Windows, Linux Nuvem públicas e nuvem privada, bons conhecimentos em sistemas de pagamento eletrônicos e projetos de entrega continua, bom comunicador e profissional comprometido com entrega e demandas.
+## 🚀 Sobre mim  
 
+Profissional atuando como **Platform Engineer** e **DevSecOps**, com experiência em:  
 
+- ⚙️ **Automação de pipelines** usando **GitHub Actions**, criação de fluxos customizados e integrações com ferramentas de qualidade e segurança.  
+- 🚀 **CI/CD e Deployment Automatizado** em ambientes **cloud e on-premises** (Azure, AWS e GCP).  
+- 🛠️ **Engenharia de Plataforma**, construindo fundações tecnológicas escaláveis para times de desenvolvimento.  
+- 📊 **Observabilidade e Monitoramento**, apoiando decisões baseadas em dados e garantindo resiliência em produção.  
+- 🗄️ Experiência em **administração de banco de dados** e integrações com sistemas críticos de pagamento.  
+
+**Stack principal:**  
+`GitHub Actions` · `Jenkins` · `Ansible` · `Azure` · `Docker` · `Kubernetes` · `SonarQube` · `Dynatrace`
+
+---
+
+## 💡 Projetos de Destaque  
+
+### 🔹 [Simulado GitHub](https://simulado-github.com)  
+Plataforma interativa que desenvolvi para **simulados e estudos práticos sobre GitHub Actions**, permitindo que desenvolvedores testem seus conhecimentos e pratiquem fluxos de automação em um ambiente simulado.  
+
+### 🔹 Pipelines e Plataformas CI/CD  
+Experiência na criação e padronização de **pipelines de entrega contínua** com foco em:  
+- Integração com ferramentas de qualidade e segurança.  
+- Deploys consistentes em **nuvem** e **on-premises**.  
+- Criação de **plataformas internas** para aumentar a autonomia dos times de desenvolvimento.  
+
+---
+
+## 🎯 Objetivo  
+
+Atuar como **Platform Engineer**, ajudando empresas e times de tecnologia a:  
+- Modernizar pipelines de entrega.  
+- Promover **automação inteligente com GitHub Actions**.  
+- Construir **plataformas internas escaláveis** que aumentem a produtividade e a segurança no ciclo de desenvolvimento.  
+
+---
+
+📫 Vamos conectar?  
+[LinkedIn](https://www.linkedin.com/in/ronaldosoares/) · [GitHub](https://github.com/ronaldosoares)  
