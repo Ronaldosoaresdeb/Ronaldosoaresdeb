@@ -1,5 +1,3 @@
-# 👋 Olá,
-
 ## 🚀 Sobre mim  
 
 Profissional atuando como **Platform Engineer** e **DevSecOps**, com experiência em:  
@@ -18,14 +16,13 @@ Profissional atuando como **Platform Engineer** e **DevSecOps**, com experiênci
 ## 💡 Projetos de Destaque  
 
 ### 🔹 [Simulado GitHub](https://simulado-github.com)  
-Plataforma interativa que desenvolvi para **simulados e estudos práticos sobre GitHub Actions**, permitindo que desenvolvedores testem seus conhecimentos e pratiquem fluxos de automação em um ambiente simulado.  
+Plataforma interativa que desenvolvi para **simulados e estudos práticos sobre GitHub Actions**,.  
 
 ### 🔹 Pipelines e Plataformas CI/CD  
 Experiência na criação e padronização de **pipelines de entrega contínua** com foco em:  
 - Integração com ferramentas de qualidade e segurança.  
 - Deploys consistentes em **nuvem** e **on-premises**.  
 - Criação de **plataformas internas** para aumentar a autonomia dos times de desenvolvimento.  
-
 ---
 
 ## 🎯 Objetivo  
@@ -38,4 +35,4 @@ Atuar como **Platform Engineer**, ajudando empresas e times de tecnologia a:
 ---
 
 📫 Vamos conectar?  
-[LinkedIn](https://www.linkedin.com/in/ronaldosoares/) · [GitHub](https://github.com/ronaldosoares)  
+[LinkedIn](https://www.linkedin.com/in/ronaldo-soares-8602b650/) · [GitHub](https://github.com/ronaldosoares)  
