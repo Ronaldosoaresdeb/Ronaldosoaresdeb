@@ -9,7 +9,7 @@ Profissional atuando como **Platform Engineer** e **DevSecOps**, com experiênci
 - 🗄️ Experiência em **administração de banco de dados** e integrações com sistemas críticos de pagamento.  
 
 **Stack principal:**  
-`GitHub Actions` · `Jenkins` · `Ansible` · `Azure` · `Docker` · `Kubernetes` · `SonarQube` · `Dynatrace`
+`GitHub Actions` · `Ansible` · `Azure` · `Docker` · `Kubernetes` · `ArgoCD` · `AWS`
 
 ---
 
